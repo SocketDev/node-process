@@ -23,5 +23,8 @@
   "devDependencies": {
     "mocha": "2.2.1",
     "zuul": "^3.10.3"
+  },
+  "dependencies": {
+    "queue-microtask": "^1.2.3"
   }
 }
